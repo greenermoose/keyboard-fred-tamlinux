@@ -1,5 +1,9 @@
 # Keyboard Shortcut Visualizer (fred.keyboard)
 
+> [!IMPORTANT]
+> **Repository Frozen:** This repository is frozen and retained for historical reference as the Omarchy 1.x release suite. Active Tamlinux development for `fred.keyboard` has moved to the unified [Tamlinux](https://github.com/greenermoose/tamlinux) repository under [`desktop/plugins/fred.keyboard/`](https://github.com/greenermoose/tamlinux/tree/main/desktop/plugins/fred.keyboard).
+
+
 Part of Fred's `fred.*` plugin suite for [Tamlinux](https://github.com/greenermoose/tamlinux) (Fred's personal Linux workstation environment): a shell bar widget that shows your shortcuts on an interactive keyboard display. Press a combination to see what it runs, or search for a command to see which keys run it.
 
 ![The panel: your keyboard drawn from a field-observed layout, bound keys tinted](assets/screenshot.png)
